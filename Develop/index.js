@@ -8,6 +8,36 @@ const questions =
 inquirer.prompt([
     {
         type: 'input',
+        name: 'title',
+        message: 'What is project name?'
+    },
+    {
+        type: 'input',
+        name: 'description',
+        message: 'Please write a brief description of your project'
+    },
+    {
+        type: 'input',
+        name: 'installation',
+        message: 'Please specify any installation instructinos'
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'Please Provide some usage information'
+    },
+    {
+        type: 'input',
+        name: 'contribution',
+        message: 'Please list any contributing guidelines'
+    },
+    {
+        type: 'input',
+        name: 'test',
+        message: 'What test instructions would you like to include?'
+    },
+    {
+        type: 'input',
         name: 'name',
         message: 'What is your name?'
     },
@@ -34,9 +64,9 @@ inquirer.prompt([
     
 ])
 .then((answers) => {
-    const readMePageContent = generateReadMe(answers);
+    const readMeGenerator = generateMarkdown(answers);
 
-        fs.writeFile('readMe.md', readMePageContent, (err) => err ? console.log(err) : console.log('Successfully created index.html!')
+        fs.writeFile('readMe.md', readMeGenerator, (err) => err ? console.log(err) : console.log('Successfully created index.html!')
         )
 })
 
