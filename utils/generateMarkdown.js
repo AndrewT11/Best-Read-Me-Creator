@@ -32,6 +32,12 @@ function generateMarkdown(data) {
   
   ## Table of Contents
 
+  - [Installation](#installation)
+  - [Usage]](#usage)
+  - [Contribution Guidelines](#contributions )
+  - [Tests](#tests)
+  - [Questions](#questions)
+
   ## Installation
 
   This is required for installation:
@@ -42,11 +48,11 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
-  ## Contribution Guidelines 
+  ## Contributions
   
   ${data.contribution}
 
-  ## Test Instructions
+  ## Tests
   
   ${data.test}
 
