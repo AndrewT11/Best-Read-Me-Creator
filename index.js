@@ -4,6 +4,7 @@ const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
+
 inquirer.prompt([
     {
         type: 'input',
@@ -16,14 +17,25 @@ inquirer.prompt([
         message: 'Please write a brief description of your project'
     },
     {
+        type: 'list',
+        name: 'license',
+        message: 'What license(s) does your project have?',
+        choices: [
+            'MIT',
+            'MPL 2.0',
+            'APACHE 2.0',
+            'ISC'
+        ]
+    },
+    {
         type: 'input',
         name: 'installation',
-        message: 'Please specify any installation instructions'
+        message: 'Please specify installation instructions'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Please Provide some usage information'
+        message: 'Please provide usage information'
     },
     {
         type: 'input',
@@ -33,7 +45,7 @@ inquirer.prompt([
     {
         type: 'input',
         name: 'test',
-        message: 'What test instructions would you like to include?'
+        message: 'What test(s) instructions would you like to include?'
     },
     {
         type: 'input',
