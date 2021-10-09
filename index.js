@@ -65,13 +65,12 @@ inquirer.prompt([
 .then((answers) => {
     const readMeGenerator = generateMarkdown(answers);
 
-        fs.writeFile('readMe.md', readMeGenerator, (err) => err ? console.log(err) : console.log('Successfully created index.html!')
+        fs.writeFile('readMe.md', readMeGenerator, (err) => err ? console.log(err) : console.log('Successfully created readMe.md!')
         )
 })
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-
 }
 
 // TODO: Create a function to initialize app
