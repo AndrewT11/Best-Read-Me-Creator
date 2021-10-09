@@ -18,7 +18,7 @@ inquirer.prompt([
     {
         type: 'input',
         name: 'installation',
-        message: 'Please specify any installation instructinos'
+        message: 'Please specify any installation instructions'
     },
     {
         type: 'input',
@@ -34,21 +34,6 @@ inquirer.prompt([
         type: 'input',
         name: 'test',
         message: 'What test instructions would you like to include?'
-    },
-    {
-        type: 'input',
-        name: 'name',
-        message: 'What is your name?'
-    },
-    {
-        type: 'input',
-        name: 'location',
-        message: 'Where are you located?'
-    },
-    {
-        type: 'input',
-        name: 'hobby',
-        message: 'What is your favorite hobby?'
     },
     {
         type: 'input',
