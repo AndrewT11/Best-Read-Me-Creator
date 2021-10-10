@@ -61,9 +61,9 @@ function generateMarkdown(data) {
 
   Contact me by the following:
 
-  GitHub Link: [${data.github}](http://www.github.com/${data.github})
+  GitHub Username and Link: [${data.github}](http://www.github.com/${data.github})
 
-  LinkedIn: [${data.linkedin}](http://www.linkedin.com/${data.linkedin})
+  LinkedIn Username and Link: [${data.linkedin}](http://www.linkedin.com/${data.linkedin})
 `;
 }
 // [TEXT TO SHOW](actual URL to navigate)
