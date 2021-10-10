@@ -1,6 +1,6 @@
 ## Title 
 
-  
+  ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
   a
 
@@ -23,25 +23,25 @@
 
   This is required for installation:
 
-  # f
+  # d
 
   ## Usage 
 
-  d
+  e
 
   ## Contributions
   
-  s
+  f
 
   ## Tests
   
-  a
+  g
 
 
   ## Questions
 
   Contact me by the following:
 
-  GitHub Username and Link: [w](http://www.github.com/w)
+  GitHub Username and Link: [h](http://www.github.com/h)
 
-  LinkedIn Username and Link: [e](http://www.linkedin.com/e)
+  LinkedIn Username and Link: [t](http://www.linkedin.com/t)
