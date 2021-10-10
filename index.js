@@ -22,8 +22,8 @@ const questions = function () {
             message: 'What license does your project have?',
             choices: [
                 'MIT',
-                'MPL 2.0',
-                'APACHE-2.0',
+                'ODbL',
+                'GPLv3',
                 'ISC'
             ]
         },
