@@ -1,15 +1,16 @@
 ## Title 
 
-  ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
+  ![License](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)
 
-  a
+  bunny
 
   ## Description
 
-  b
+  it hops
 
   ## License
-  
+  https://www.gnu.org/licenses/gpl-3.0
+
   
   ## Table of Contents
 
@@ -23,25 +24,25 @@
 
   This is required for installation:
 
-  # d
+  # none
 
   ## Usage 
 
-  e
+  wow
 
   ## Contributions
   
-  f
+  wow wow
 
   ## Tests
   
-  g
+  wow wow wow
 
 
   ## Questions
 
   Contact me by the following:
 
-  GitHub Username and Link: [h](http://www.github.com/h)
+  GitHub Username and Link: [AndrewT11](http://www.github.com/AndrewT11)
 
-  LinkedIn Username and Link: [t](http://www.linkedin.com/t)
+  LinkedIn Username and Link: [andrew-tran-011](http://www.linkedin.com/andrew-tran-011)
