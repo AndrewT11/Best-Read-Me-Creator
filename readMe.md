@@ -9,12 +9,20 @@ Using this app, one can quickly and easily create a README file by using a comma
   
 ## Table of Contents
 
+- [Links](#links)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributions](#contributions)
 - [Preview](#preview)
 - [Questions](#questions)
 - [License](#license)
+
+## Links
+
+- [Deployed Live Page](https://andrewt11.github.io/Best-Read-Me-Creator/)
+
+- [Github Repository](https://github.com/andrewt11/best-read-me-creator)
+
 
 ## Installation
 
