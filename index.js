@@ -59,13 +59,6 @@ const questions = function () {
         },
     ])    
 }
-// .then((answers) => {
-//     const readMeGenerator = generateMarkdown(data);
-
-//         fs.writeFile('readMe.md', readMeGenerator, (err) => err ? console.log(err) : console.log('Successfully created readMe.md!')
-//         )
-// })
-
 
 // TODO: Create a function to write README file
 function writeToFile(answers) {
