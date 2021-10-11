@@ -1,8 +1,8 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
+function renderLicenseBadge(license, color) {
     if(license) {
-      return `![License](https://img.shields.io/badge/License-${license}-brightgreen.svg)`
+      return `![License](https://img.shields.io/badge/License-${license}-${color}.svg)`
     } else {
       return "";
     }
@@ -19,7 +19,9 @@ function renderLicenseLink(license) {
     return 'https://opendatacommons.org/licenses/odbl/';
   } else if (license==='ISC') {
     return 'https://opensource.org/licenses/ISC';
-  } else {
+  } else if (license==='Unlicense') {
+    return '';
+    }else {
     return "";
   }
 }
@@ -83,7 +85,7 @@ function generateMarkdown(data) {
   - [License](#license)
 
   ## License
-  ${renderLicenseBadge(data.license)}
+  ${renderLicenseBadge(data.license, data.color)}
 
   ${renderLicenseLink(data.license)}
 

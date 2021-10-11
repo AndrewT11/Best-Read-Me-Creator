@@ -24,7 +24,21 @@ const questions = function () {
                 'MIT',
                 'ODbL',
                 'GPLv3',
-                'ISC'
+                'ISC',
+                'Unlicense'
+            ]
+        },
+        {
+            type: 'list',
+            name: 'color',
+            message: 'What color would you like your license badge?',
+            choices: [
+                'yellow',
+                'brightgreen',
+                'lightgreen',
+                'blue',
+                'lightgrey',
+                'red'
             ]
         },
         {
