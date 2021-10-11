@@ -59,6 +59,8 @@ const questions = function () {
         },
     ])    
 }
+.then((answers) => writeToFile(answers))
+    .catch((err) => console.error(err));
 
 // TODO: Create a function to write README file
 function writeToFile(answers) {
@@ -68,8 +70,8 @@ function writeToFile(answers) {
 // TODO: Create a function to initialize app
 function init() {
     questions()
-    .then((answers) => writeToFile(answers))
-    .catch((err) => console.error(err));
+    // .then((answers) => writeToFile(answers))
+    // .catch((err) => console.error(err));
 }
 
 // Function call to initialize app
