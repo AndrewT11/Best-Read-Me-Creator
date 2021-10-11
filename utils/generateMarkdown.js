@@ -28,7 +28,6 @@ function renderLicenseLink(license) {
   } else {
     return "";
   }
-  console.log('license link');
 }
 
 // TODO: Create a function that returns the license section of README
@@ -85,7 +84,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
   ${renderLicenseLink(data.license)}
-  
+
   ${renderLicenseSection(data.license)}
 
   
