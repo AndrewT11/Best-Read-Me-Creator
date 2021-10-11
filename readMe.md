@@ -13,7 +13,7 @@
 
   MIT License
 
-    Copyright (c) [year] [fullname]
+    Copyright (c) [2021] [Andrew Tran]
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -38,7 +38,8 @@
 
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution Guidelines](#contributions)
+  - [Contributions](#contributions)
+  - [Video and Preview](#videopreview)
   - [Tests](#tests)
   - [Questions](#questions)
 
@@ -58,6 +59,10 @@
   ## Contributions
   
   Andrew Tran <br> https://choosealicense.com/ <br> https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide <br> https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba <br>
+
+  ## Video and Preview
+  [Video]()
+  [Preview]()
 
   ## Tests
   
