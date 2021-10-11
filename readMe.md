@@ -12,7 +12,7 @@ Using this app, one can quickly and easily create a README file by using a comma
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributions](#contributions)
-- [Video and Preview](#videopreview)
+- [Preview](#preview)
 - [Questions](#questions)
 - [License](#license)
 
@@ -33,9 +33,9 @@ This is required for installation:
   
 Andrew Tran <br> https://choosealicense.com/ <br> https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide <br> https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba <br>
 
-## Video and Preview
+## Preview
 
-Video link: https://drive.google.com/file/d/1-8iJ7NOftyqzgZVe_ABz6Q2CZNapUMLJ/view?usp=sharing
+Video link: https://drive.google.com/file/d/1uvc6P2DttMZtqffTbbkqEaBdIFZZlm4_/view?usp=sharing
 
 ![Preview](./media/readmeGIF.gif)
 

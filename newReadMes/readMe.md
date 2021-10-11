@@ -1,6 +1,6 @@
 ## Title 
 
-  ### Best-Readme-Creator
+  ### Best-ReadMe-Creator
 
   ## Description
 
@@ -17,11 +17,15 @@
   - [License](#license)
 
   ## License
-  ![License](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)
+  ![License](https://img.shields.io/badge/License-ISC-brightgreen.svg)
 
-  https://www.gnu.org/licenses/gpl-3.0
+  https://opensource.org/licenses/ISC
 
-  License is really long. Follow this link: https://choosealicense.com/licenses/gpl-3.0/
+  Copyright <YEAR> <OWNER>
+
+    Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+    
+    THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 
 
@@ -29,19 +33,19 @@
 
   This is required for installation:
 
-  # Run "npm init -y" in your command line. Allow all processes to load. Run "npm install inquirer" in your command line. Once loaded, you are good to go!
+  # Before running this program, please run "npm init -y" and "npm install inquirer"
 
   ## Usage 
 
-  none
+  asdl;kfjal;sdkjf laskfj kjlkjalskdfj laksjdfl kjlakwjelfk jalskdfj lakwjef lakjwflekj alskdjf lakwej l
 
   ## Contributions
   
-  Andrew Tran
+   jkflsa lfkwjelkasdlfkj l  Andrew Tran alskdfj laskjflawkej flkajsf
 
   ## Tests
   
-  none
+  asldfkj alwekjf laksdjf lakw3jflkj23fi ajlkfjal kjdlfj 3l4qkfjlakjdflk j3lfkajwl4kfj lakwjfl ak34jflakjflkqjflkj
 
 
   ## Questions
