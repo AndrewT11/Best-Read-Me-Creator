@@ -35,9 +35,9 @@ Andrew Tran <br> https://choosealicense.com/ <br> https://coding-boot-camp.githu
 
 ## Video and Preview
 
-[Video]()
+[Video](media\ReadMeVIDEODemo.webm)
 
-[Preview]()
+[Preview](media\readmeGIF.gif)
 
 ## Questions
 
