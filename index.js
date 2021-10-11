@@ -38,7 +38,8 @@ const questions = function () {
                 'lightgreen',
                 'blue',
                 'lightgrey',
-                'red'
+                'red',
+                'orange'
             ]
         },
         {
