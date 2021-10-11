@@ -69,7 +69,7 @@ function renderLicenseSection(license) {
   } else {
     return "";
 
-}
+}}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -83,7 +83,9 @@ function generateMarkdown(data) {
 
   ## License
   ${renderLicenseBadge(data.license)}
+
   ${renderLicenseLink(data.license)}
+  
   ${renderLicenseSection(data.license)}
 
   
@@ -122,6 +124,7 @@ function generateMarkdown(data) {
 
   LinkedIn Username and Link: [${data.linkedin}](http://www.linkedin.com/${data.linkedin})
 `;
-}}
+}
+
 // [TEXT TO SHOW](actual URL to navigate)
 module.exports = generateMarkdown;
