@@ -37,7 +37,7 @@ This is required for installation:
 
 ## Contributions
   
-Andrew Tran <br> https://choosealicense.com/ <br> https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide <br> https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba <br>
+Andrew Tran <br> https://choosealicense.com/ <br> https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide <br> https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba <br>https://www.davidketcheson.info/2015/05/13/add_a_readme.html
 
 ## Preview
 
