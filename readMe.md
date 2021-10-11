@@ -53,7 +53,8 @@ Contact me by the following:
 
 GitHub Username and Link: [AndrewT11](http://www.github.com/AndrewT11)
 
-LinkedIn Username and Link: [andrew-tran-011](http://www.linkedin.com/andrew-tran-011)
+LinkedIn Username and Link: [andrew-tran-011](http://www.linkedin.com/in/andrew-tran-011
+)
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)

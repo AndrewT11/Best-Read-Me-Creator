@@ -118,7 +118,7 @@ function generateMarkdown(data) {
 
   GitHub Username and Link: [${data.github}](http://www.github.com/${data.github})
 
-  LinkedIn Username and Link: [${data.linkedin}](http://www.linkedin.com/${data.linkedin})
+  LinkedIn Username and Link: [${data.linkedin}](http://www.linkedin.com/in/${data.linkedin})
 `;
 }
 
