@@ -21,7 +21,7 @@ function renderLicenseLink(license) {
     return 'https://opensource.org/licenses/ISC';
   } else if (license==='Unlicense') {
     return '';
-    }else {
+  } else {
     return "";
   }
 }
@@ -52,9 +52,9 @@ function renderLicenseSection(license) {
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.`;
   } else if (license==='GPLv3') {
-      return `License is really long. Follow this link: https://choosealicense.com/licenses/gpl-3.0/`;
+      return `Please follow this link for license statement: https://choosealicense.com/licenses/gpl-3.0/`;
   } else if (license==='ODbl') {
-      return `License is really long. Follow this link: https://opendatacommons.org/licenses/odbl/1-0/`;
+      return `Please follow this link for license statement: https://opendatacommons.org/licenses/odbl/1-0/`;
   } else if (license==='ISC') {
       return `Copyright <YEAR> <OWNER>
 
@@ -80,7 +80,6 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Contribution Guidelines](#contributions)
   - [Tests](#tests)
-  - [Video and Preview](#videopreview)
   - [Questions](#questions)
   - [License](#license)
 
